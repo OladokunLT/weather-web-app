@@ -324,14 +324,14 @@ body {
   }
   
   .searchTerm:focus {
-    color: #00b4cc;
+    color: #8757bd;
   }
   
   .searchButton {
     width: 80px;
     height: 32px;
     border: none;
-    background: #048b9c;
+    background: #430786;
     text-align: center;
     color: #fff;
     border-radius: 0 5px 5px 0;
