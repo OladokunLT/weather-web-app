@@ -306,7 +306,7 @@ body {
   
   .search {
     width: 100%;
-    position: relative;
+    position: static;
     display: flex;
     justify-content: center;
   }
