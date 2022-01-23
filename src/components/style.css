@@ -154,14 +154,14 @@ body {
 }
 
 .searchTerm:focus {
-  color: #00b4cc;
+  color: #430786;
 }
 
 .searchButton {
   width: 80px;
   height: 32px;
   border: none;
-  background: #048b9c;
+  background: #430786;
   text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
@@ -194,7 +194,7 @@ body {
   transform: translate(-50%, -50%);
 } */
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
   .widget {
     display: flex;
     /* height: 400px; */
